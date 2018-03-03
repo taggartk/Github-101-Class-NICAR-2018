@@ -10,12 +10,12 @@ Materials for Github 101 for journalists taught at IRE/NICAR conference in March
 
 ### Hands on exercise
 
-* The [`SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip`] file contains data about entities that were prohibited from receiving federal contracts as of January 1, 2017. 
+* The [`SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip`](SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip) file contains data about entities that were prohibited from receiving federal contracts as of January 1, 2017. 
 
   To make things easier for this class, we've pulled out a slice of that data to work with:
   
-  1) [`FEMA.csv`](CSV) contains all individuals and firms the Federal Emergency Managment Agency (FEMA) added to this list. 
-  2) [`FEMA_SAMnum.csv`](CSV) contains the unique identifier for each of those entities
+  1) [`FEMA.csv`](FEMA.csv) contains all individuals and firms the Federal Emergency Managment Agency (FEMA) added to this list. 
+  2) [`FEMA_SAMnum.csv`](FEMA_SAMnum.csv) contains the unique identifier for each of those entities
   
   If you want to dig into this further, the most recent data can be downloaded [here](https://catalog.data.gov/dataset/system-for-award-management-sam-exclusions-extract-data-package.
 
