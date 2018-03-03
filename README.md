@@ -1,7 +1,7 @@
 # Github-101-Class-NICAR-2018
 Materials for Github 101 for journalists taught at IRE/NICAR conference in March 2018
 
-### Some newsrooms share their methodologies:
+### Some newsrooms that share their methodologies:
 
 * [538](https://github.com/fivethirtyeight/data)
 * [ProPublica](https://github.com/propublica)
