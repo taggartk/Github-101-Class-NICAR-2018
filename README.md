@@ -8,9 +8,35 @@ Materials for Github 101 for journalists taught at IRE/NICAR conference in March
 * [USA Today](https://github.com/USATODAY)
 * [BuzzFeed News](https://github.com/BuzzFeedNews)
 
-### Hands on exercise
+### What this class will cover: 
 
-* The [`SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip`](SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip) file contains data about entities that were prohibited from receiving federal contracts as of January 1, 2017. 
+* What is GitHub? Why is it useful for journalists? 
+
+  1. Learn from/build upon other people’s work! Use other reporters’ analyses and download data for your own stories.
+  
+  2. Share your own work with the world!
+  
+  3. Track changes — helpful for the same reasons you might want to go back to an earlier draft in a story. But also helpful if you want to track changes to a dataset you regularly update to see what’s new.
+
+### Hands on exercises
+
+**1. Make your own project (‘repo’).**
+
+* Add some text to the readme
+
+    A readme is the landing page of your repo, where you explain what’s in the repo and any caveats people should be aware      of before diving into your data and analysis.
+
+* ‘Commit’ changes
+
+* Make a branch
+
+* Make a pull request, check out the differences and if everything looks good, merge with master.
+
+Now turn to your neighbor and make a branch on their repo. Suggest changes or add language to their readme. And make a pull request.
+
+**2. Checking out differences in new data**
+
+  The [`SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip`](SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip) file contains data about entities that were prohibited from receiving federal contracts as of January 1, 2017. 
 
   To make things easier for this class, we've pulled out a slice of that data to work with:
   
@@ -18,6 +44,8 @@ Materials for Github 101 for journalists taught at IRE/NICAR conference in March
   2) [`FEMA_SAMnum.csv`](FEMA_SAMnum.csv) contains the unique identifier for each of those entities
   
   If you want to dig into this further, the most recent data can be downloaded [here](https://catalog.data.gov/dataset/system-for-award-management-sam-exclusions-extract-data-package.
+  
+  We're going to make a new branch to add data from March 3, 2018. You can download that data [here](https://drive.google.com/drive/folders/1zNmfmNE6VVPOXklYtrO0_adb5GmWECnV?usp=sharing).
 
 ### Resources:
 
