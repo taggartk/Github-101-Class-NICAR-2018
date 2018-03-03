@@ -8,3 +8,5 @@ Materials for Github 101 for journalists taught at IRE/NICAR conference in March
 ### Resources:
 
 * This [guide](https://guides.github.com/activities/hello-world/) from Github is a good introduction to the ideas and terms you'll need to know.
+
+* An [example](https://github.com/dannguyen/simplestuff-sqlite) of how to show your work to the world if you use SQL (also a good resource if you're trying to learn SQL).
