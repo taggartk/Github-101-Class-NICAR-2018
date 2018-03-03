@@ -8,9 +8,16 @@ Materials for Github 101 for journalists taught at IRE/NICAR conference in March
 * [USA Today](https://github.com/USATODAY)
 * [BuzzFeed News](https://github.com/BuzzFeedNews)
 
-### Hands on
+### Hands on exercise
 
-* The most recent SAMS data can be downloaded [here](https://catalog.data.gov/dataset/system-for-award-management-sam-exclusions-extract-data-package) 
+* This repo contains (data)[SAM_Exclusions_Public_Extract_2017-01-17.CSV.zip] about entities that were prohibited from receiving federal contracts as of January 1, 2017. 
+
+  To make things easier for this class, we've pulled out a slice of that data to work with:
+  
+  1) A (CSV)[FEMA.csv] with all individuals and firms the Federal Emergency Managment Agency (FEMA) added to this list. 
+  2) A (CSV)[FEMA_SAMnum.csv] with the unique identifier for each of those entities
+  
+  If you want to dig into this further, the most recent data can be downloaded [here](https://catalog.data.gov/dataset/system-for-award-management-sam-exclusions-extract-data-package.
 
 ### Resources:
 
