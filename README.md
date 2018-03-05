@@ -43,7 +43,7 @@ Now turn to your neighbor and make a branch on their repo. Suggest changes or ad
   1) [`FEMA.csv`](FEMA.csv) contains all individuals and firms the Federal Emergency Managment Agency (FEMA) added to this list. 
   2) [`FEMA_SAMnum.csv`](FEMA_SAMnum.csv) contains the unique identifier for each of those entities
   
-  If you want to dig into this further, the most recent data can be downloaded [here](https://catalog.data.gov/dataset/system-for-award-management-sam-exclusions-extract-data-package.
+  If you want to dig into this further, the most recent data can be downloaded [here](https://catalog.data.gov/dataset/system-for-award-management-sam-exclusions-extract-data-package).
   
   We're going to make a new branch to add data from March 3, 2018. You can download that data [here](https://drive.google.com/drive/folders/1zNmfmNE6VVPOXklYtrO0_adb5GmWECnV?usp=sharing).
 
