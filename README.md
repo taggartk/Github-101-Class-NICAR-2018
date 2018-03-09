@@ -14,6 +14,10 @@ Materials for Github 101 for journalists taught at IRE/NICAR conference in March
 
   1. Learn from/build upon other people’s work! Use other reporters’ analyses and download data for your own stories.
   
+      Examples:
+     * BuzzFeed News' '[Trump World](https://github.com/BuzzFeedNews/trumpworld)', a list of more than 1,500 people and organizations connected to the  administration.
+     * ProPublica's [Facebook Political Ad Collector](https://github.com/propublica/facebook-political-ads)
+  
   2. Share your own work with the world!
   
   3. Track changes — helpful for the same reasons you might want to go back to an earlier draft in a story. But also helpful if you want to track changes to a dataset you regularly update to see what’s new.
